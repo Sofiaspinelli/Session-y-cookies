@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "name": "Sofia",
+        "email": "sofiaspinelli17@hotmail.com",
+        "edad": "20",
+        "pass": "$2a$12$EYhZvg5GlnCYDQg0umiDF.ybLIqLV5UYY47n8VESgAmXmZ/FI0.lO",
+        "colors": "#800080",
+        "rol": "usuario"
+    },
+    {
+        "id": 2,
+        "name": "Erica",
+        "email": "sofiaspinelli17@hotmail.com",
+        "edad": "20",
+        "pass": "$2a$12$mS/WKSHxUNzuaY4S0fDrpOc3kR1FG3l0APzSbUQ9o0nr5d4B9omCG",
+        "colors": "#800080",
+        "rol": "usuario"
+    },
+    {
+        "id": 3,
+        "name": "Sofia",
+        "email": "sofiaspinelli17@hotmail.com",
+        "edad": "20",
+        "pass": "$2a$12$vBgS1IOmUrGTvVQxa87bAeEaNl8Yx4fbHHEuCdoCiOY0uvfQF0D7m",
+        "colors": "#44a1a0",
+        "rol": "usuario"
+    },
+    {
+        "id": 4,
+        "name": "Sofia",
+        "email": "sofiaspinelli17@hotmail.com",
+        "edad": "20",
+        "pass": "$2a$12$Eit0X8LtYRCq3a1OdkhH0uH/vkcK8atfkmYro.bcJ/JDVwKdT3mMW",
+        "colors": "#44a1a0",
+        "rol": "usuario"
+    },
+    {
+        "id": 5,
+        "name": "Erica",
+        "email": "sofiaspinelli17@hotmail.com",
+        "edad": "20",
+        "pass": "$2a$12$oRqbhq/MigXZkhMqcIGb4OXhfz5uPLibubg7U2PvbAZrJ8vqyxvaK",
+        "colors": "#ce4257",
+        "rol": "usuario"
+    },
+    {
+        "id": 6,
+        "name": "Franco",
+        "email": "francospinelli@gmail.com",
+        "edad": "24",
+        "pass": "$2a$12$Nv9m1IVTKBmwUVfRv5Bxgecy4ko50CbUCy/X7gonBkRbOJ0BRsMna",
+        "colors": "#474747",
+        "rol": "usuario"
+    },
+    {
+        "id": 7,
+        "name": "Sofia",
+        "email": "sofiaspinelli17@hotmail.com",
+        "edad": "20",
+        "pass": "$2a$12$hVZeHwHahCzz9y1.l5.yaOFzNn58TlUW5vDFvPVyAKYTX56jdfFFG",
+        "colors": "#44a1a0",
+        "rol": "usuario"
+    },
+    {
+        "id": 8,
+        "name": "Martina",
+        "email": "marttina10@gmail.com",
+        "edad": "20",
+        "pass": "$2a$12$RH76Vf16BkZ6JmjS8d5t7uI0Zz8Lqha7SCnLfqEv1PPjw/um9tP1a",
+        "colors": "#ce4257",
+        "rol": "usuario"
+    },
+    {
+        "id": 9,
+        "name": "Erica",
+        "email": "sofiaspinelli17@hotmail.com",
+        "edad": "20",
+        "pass": "$2a$12$qLTsbojPx39UmX6nO5g2Jejjufp2cN0eBzajgQqbuIsR2dvijthyC",
+        "colors": "#44a1a0",
+        "rol": "usuario"
+    }
+]
